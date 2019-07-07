@@ -47,6 +47,7 @@ and Housing Questionnaire](https://www.census.gov/history/pdf/1960censusquestion
 - Questions: Place of birth and citizenship status
 - Note: ACS estimates are period estimates that describe the average characteristics of
 population and housing over a period of data collection. The Census Bureau, released its first 5-year estimates in December 2010. The 2013-2017 ACS 5-year estimates cover the time period from January 1, 2013 through December 31, 2017. Multiyear estimates give the average value is over the full data period. They cannot be used to say what is going on in any particular year in the period. [Sources: [1](https://www.census.gov/programs-surveys/acs/methodology/design-and-methodology.html), [2](https://www2.census.gov/programs-surveys/acs/tech_docs/accuracy/MultiyearACSAccuracyofData2017.pdf)]
+- Source: [2005 American Community Survey Questionnaire](https://www2.census.gov/programs-surveys/acs/methodology/questionnaires/Quest05to06.pdf)
 
 ![2005 extract](assets/us-acs-2005.png)
 
