@@ -8,10 +8,11 @@
 ![1950 extract](assets/us-census-1950.png)
 
 ## 1960 Census
-- Coverage: 0%
-- Questions: NA
+- Coverage: various
+- Questions: Place of birth (25%), citizenship (NY and PR: 100%, rest of USA: 0%)  [[1](https://cis.org/Richwine/History-Census-Bureaus-Birthplace-and-Citizenship-Questions-One-Table)][[2](https://www.nap.edu/read/4805/chapter/13#191)]
 - Source [1960 Census of Population
 and Housing Questionnaire](https://www.census.gov/history/pdf/1960censusquestionnaire-2.pdf)
+![1960 extract POB](assets/us-census-1960-pob.png)
 
 ## 1970 Census
 - Coverage: 5%
